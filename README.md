@@ -12,7 +12,7 @@ To run the project, follow these steps:
 
 ### Demo
 
-You can check the app in this URL https://abdabhasan-boringLoremIpsum.netlify.app
+You can check the app in this URL https://abdabhasan-boringlorem.netlify.app
 
 ### Figma URL
 
